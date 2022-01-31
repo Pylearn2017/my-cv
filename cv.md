@@ -30,4 +30,4 @@ A few of the training projects on JavaScript
 https://github.com/Pylearn2017/Js/tree/master/JS
 Education:
 Higher engineering education 
-Moscow Aviation Institute (National Research University)
+Moscow Aviation Institute
