@@ -12,3 +12,14 @@ Skills:
 * python
 * html/css/js
 
+Code:
+```
+let stopClick = function(event) {
+	score++;
+	textScore.text(`Score is: $(score)`);
+	if (score >= 10) {
+		clearInterval(squareID);
+		textToWinner = alert('You are winner!');
+	}
+}
+```
