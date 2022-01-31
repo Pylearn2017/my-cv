@@ -2,3 +2,13 @@
 	margin: 0;	
 	padding: 0;	
 }
+
+.container {
+	background-color:pink;
+	margin: 0 auto;	
+	width: 1080px;
+}
+
+.img {
+	width: 	50vw;
+}
