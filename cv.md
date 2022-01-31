@@ -1,18 +1,18 @@
 # Aleksander Litin
-Contacts:
+### Contacts:
 * Telegram: @avlitvin
 * Phone: +79779547165
 * E-mail: alexlik73@gmail.com
 
-About:
+### About:
 It is very important for me not to stand still and develop every day, my dream is to move to a warm place and be well off. For my family to be happy. I have a beautiful wife, a wonderful son and a great dog.
 
-Skills:
+### Skills:
 * web
 * python
 * html/css/js
 
-Code:
+### Code:
 ```
 let stopClick = function(event) {
 	score++;
@@ -23,11 +23,18 @@ let stopClick = function(event) {
 	}
 }
 ```
-Experience:
+### Experience:
 A simple commercial order to the site with a registration form
 https://dream-boat-msk.ru/ 
 A few of the training projects on JavaScript
 https://github.com/Pylearn2017/Js/tree/master/JS
-Education:
+
+### Education:
 Higher engineering education 
 Moscow Aviation Institute
+
+### Languages:
+* Russian - native speaker.
+* English - A2 (B1 in process…)
+
+
